@@ -1,0 +1,9 @@
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\bin\Debug\GenerateClassFromDbSql.exe.config
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\bin\Debug\GenerateClassFromDbSql.exe
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\bin\Debug\GenerateClassFromDbSql.pdb
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\obj\Debug\GenerateClassFromDbSql.csprojResolveAssemblyReference.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\obj\Debug\GenerateClassFromDbSql.Properties.Resources.resources
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\obj\Debug\GenerateClassFromDbSql.csproj.GenerateResource.Cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\obj\Debug\GenerateClassFromDbSql.csproj.CoreCompileInputs.cache
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\obj\Debug\GenerateClassFromDbSql.exe
+C:\Users\EfrainMejiasC\Documents\Visual Studio 2017\Proyects\GenerateClassFromDbSql\GenerateClassFromDbSql\obj\Debug\GenerateClassFromDbSql.pdb
